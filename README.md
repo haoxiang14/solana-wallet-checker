@@ -76,3 +76,6 @@ To deploy your Solana Wallet Tracker, we recommend using [Vercel](https://vercel
 3. Set up your environment variables in the Vercel dashboard.
 4. Deploy!
 
+## Live Demo
+
+Check out the live demo: [Solana Wallet Checker](https://solana-wallet-checker.pages.dev)
